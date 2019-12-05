@@ -12,7 +12,7 @@ body{
   font-size: 20px;
 }
 .transparent {
-  background: rgba(0,0,0,0.5);
+  background: rgba(0,0,0,0.9);
 }
 .navbar.navbar-expand-sm .navbar-toggler {
   outline: none;
